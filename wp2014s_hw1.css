@@ -1,0 +1,60 @@
+
+body{
+  position:relative;
+  width:700px;
+  padding:5em 30em;
+ background:url(http://subtlepatterns.com/patterns/tree_bark.png) repeat; 
+ }
+
+header{
+  width:700px;
+  text-align:center;
+  color:dimgray;
+  font-size:20px;
+  line-height:1.5;
+  font-family: 'Covered By Your Grace', cursive;
+ }
+
+h{
+  color:slategray;
+  font-family: 'Miltonian Tattoo', cursive;
+  font-size:54px;
+  line-height:1.5;
+}
+
+.animation{
+  padding:1em 0;
+  text-align:center;
+}
+
+.middle-part{
+  width:700px;
+
+}
+
+.pic-link{
+  text-align:center;
+}
+
+.links{
+  font-size:22px;
+  font-family: 'Montez', cursive;
+  line-height:1.5;
+  text-align:center;
+}
+
+.buttom-link{
+  width:900px; 
+  text-align:center;
+}
+.sub-link{
+  width:850px; 
+  text-align:right;
+}
+
+
+footer{
+  width:900px;
+  text-align:center;
+}
+

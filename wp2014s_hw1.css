@@ -7,7 +7,7 @@ body{
  }
 
 header{
-  width:700px;
+  width:850px;
   text-align:center;
   color:dimgray;
   font-size:20px;
@@ -23,32 +23,77 @@ h{
 }
 
 .animation{
+  width:850px;
   padding:1em 0;
   text-align:center;
 }
 
-.middle-part{
-  width:700px;
-
-}
 
 .pic-link{
-  text-align:center;
+  width:1200px;
+}
+
+#design-pic,
+#planglobal-pic,
+#product-pic,
+#media-report-pic,
+#event-pic,
+#research-pic{
+  padding:1em 2em 1em 0;
 }
 
 .links{
+  width:1000px;
   font-size:22px;
   font-family: 'Montez', cursive;
-  line-height:1.5;
-  text-align:center;
+  line-height:1.2;
+}
+
+#design{
+  padding:0 2em 0 1.5em;
+}
+#global{
+  padding:0 0 0 1.2em;
+}
+
+#product{
+  padding:0 1em 0 3em;
+}
+
+#media-report{
+  padding:0 1em 0 2em;
+}
+
+#event{
+  padding:0 0em 0 2em;
+}
+
+#research{
+   padding:0 0em 0 4em;
+}
+
+.middle-link{
+  width:1200px;
+}
+
+  ul{
+  display: inline-block;
+  padding:0em 1.4em 0 1em;
+  line-height:20px;
+  vertical-align:text-top;
+}
+
+li{
+  display: block;
+  
 }
 
 .buttom-link{
-  width:900px; 
+  width:1000px; 
   text-align:center;
 }
 .sub-link{
-  width:850px; 
+  width:900px; 
   text-align:right;
 }
 

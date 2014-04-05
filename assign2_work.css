@@ -1,0 +1,98 @@
+
+body{
+  background:url(http://imageshack.com/a/img21/1383/23xe.png) center no-repeat;
+}
+
+header{
+  text-align:left;
+  line-height:2;
+  padding:1em 10em;
+}
+
+#page_now{
+  color:cadetblue;
+  font-family: 'Special Elite', cursive;
+  font-size:82px;
+  line-height:1.5;
+}
+
+
+
+.c_me{
+  font-family: 'Share Tech Mono', sans-serif;
+  font-size:16px;
+  line-height:1.5;
+  color:darkgray;
+}
+
+#c_m{
+  font-size:22px;
+}
+
+#name_me{
+  font-family: 'Alegreya Sans', sans-serif;
+  font-size:32px;
+  color:black;
+}
+
+
+
+nav{
+  text-align:left;
+  font-family: 'Salsa', cursive;
+  font-size:24px;
+  color:slategray;
+  line-height:2;
+  padding:0 5em;
+}
+
+a:link{
+  text-decoration: none;
+  color:slategray;
+}
+
+a:hover{
+  color:black;
+  font-size:26px;
+}
+
+a:visited{
+  color:slategray;
+}
+
+section{
+  width:33em;
+  padding:5em 10em;
+}
+
+#h_5{
+  color:slategray;
+  font-family: 'Marcellus SC', serif;
+  font-size:22px;
+  text-decoration: underline;
+  line-height:2.5;
+}
+
+.my_work{
+  background-color:rgba(141,182,205,0.5);
+  width:25em;
+  padding:2em;
+}
+
+footer{
+  text-align:center;
+  font-size:14px;
+  font-family: 'Share Tech Mono', sans-serif;
+  width=10em;
+  padding:5em;
+}
+
+
+
+
+
+
+
+
+
+

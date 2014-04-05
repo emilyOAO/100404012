@@ -28,13 +28,6 @@ header{
   font-size:22px;
 }
 
-#name_me{
-  font-family: 'Alegreya Sans', sans-serif;
-  font-size:32px;
-  color:black;
-}
-
-
 nav{
   text-align:left;
   font-family: 'Salsa', cursive;
@@ -64,6 +57,11 @@ section{
   margin:3em 10em;
 }
 
+#name_me{
+  font-family: 'Alegreya Sans', '微軟正黑體', sans-serif;
+  font-size:28px;
+  color:black;
+}
 
 #h_1,
 #h_2,

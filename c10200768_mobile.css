@@ -21,12 +21,12 @@ h_1, h_2,h_3,h{
 
 h1{
   font-weight:bold;
-  font-size: 28px;
+  font-size: 40px;
 }
 
 h2{
    font-weight:bold;
-  font-size: 18px;
+  font-size: 38px;
 }
 
 .top{
@@ -38,22 +38,22 @@ h2{
 
 #report_name{
   text-align:center;
-  font-size: 30px;
+  font-size: 50px;
 }
 
 h-1{
-  font-size: 20px;
+  font-size: 45px;
 }
 
 #report_other{
   text-align:center;
-  font-size:20px;
+  font-size:36px;
 }
 
 #go_back{
-  padding: 0em 10em;
+  padding: 0em 6em;
   float:right; 
-  font-size: 20px;
+  font-size: 36px;
 }
 
 

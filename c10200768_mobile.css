@@ -1,5 +1,5 @@
 body{
-  padding:5em 10em 5em 2em;
+  padding:5em 8em 5em 3em;
   background-image: url("http://subtlepatterns.com/patterns/lightpaperfibers.png");
   font-family:'微軟正黑體', 'Lato', Calibri, Arial, sans-serif;
 }
@@ -12,7 +12,7 @@ h-1{
 
 h_1, h_2,h_3,h{
   font-weight:bold;
-  font-size: 16px;
+  font-size: 24px;
 }
 
 .report_information, .other_information, .institution_information{
@@ -21,12 +21,12 @@ h_1, h_2,h_3,h{
 
 h1{
   font-weight:bold;
-  font-size: 20px;
+  font-size: 28px;
 }
 
 h2{
    font-weight:bold;
-  font-size: 16px;
+  font-size: 18px;
 }
 
 .top{
@@ -38,22 +38,22 @@ h2{
 
 #report_name{
   text-align:center;
-  font-size: 26px;
+  font-size: 30px;
 }
 
 h-1{
-  font-size: 18px;
+  font-size: 20px;
 }
 
 #report_other{
   text-align:center;
-  font-size:14px;
+  font-size:20px;
 }
 
 #go_back{
   padding: 0em 10em;
   float:right; 
-  font-size: 16px;
+  font-size: 20px;
 }
 
 
